@@ -6,9 +6,12 @@
     "@rails/activestorage": "^6.1.1",
     "@rails/ujs": "^6.1.1",
     "@rails/webpacker": "^5.2.1",
+    "actionpack": "^0.0.4",
     "is-svg": "^4.3.1",
     "lodash": "^4.17.20",
     "node-forge": "^0.10.0",
+    "nth-check": "^1.0.2",
+    "postcss": "^7.0.39",
     "serialize-javascript": "^5.0.1",
     "turbolinks": "^5.2.0"
   },
