@@ -9,7 +9,7 @@
     "actionpack": "^0.0.4",
     "is-svg": "^4.3.1",
     "lodash": "^4.17.20",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "postcss": "^8.2.13",
     "serialize-javascript": "^5.0.1",
     "turbolinks": "^5.2.0"
