@@ -7,7 +7,7 @@
     "@rails/ujs": "^6.1.1",
     "@rails/webpacker": "^5.2.1",
     "actionpack": "^0.0.4",
-    "is-svg": "^4.3.1",
+    "is-svg": "^4.4.0",
     "lodash": "^4.17.20",
     "postcss": "^8.2.13",
     "serialize-javascript": "^5.0.1",
